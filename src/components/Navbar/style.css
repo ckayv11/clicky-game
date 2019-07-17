@@ -33,17 +33,23 @@
     height: 25px;
 }
 
-/* @media (max-width: 420px) {
+@media (max-width: 420px) {
     .navbar li:first-child {
-      width: 25%;
+      width: 30%;
     }
   
     .navbar li:nth-child(2) {
-      width: 35%;
+      width: 30%;
     }
   
     .navbar li:last-child {
       width: 40%;
     }
-  } */
+
+    .navbar-brand img {
+      padding-right: 5px;
+      width: 15px;
+      height: 15px;
+    }
+  }
   

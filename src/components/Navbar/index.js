@@ -1,7 +1,8 @@
 import React from "react";
 import "./style.css";
+import GameMessage from "../GameMessage";
 
-function Nav() {
+function Nav(props) {
     return (
         <nav className="navbar">
             <ul>
@@ -11,8 +12,15 @@ function Nav() {
                   Clicky Game
                 </a>
               </li>
-              <li>Placeholder Message</li>
-              <li>Placeholder Scoreboard</li>
+              <li>
+                <GameMessage
+                  score={props.score}
+                  topScore={props.topScore}
+                />
+              </li>
+              <li>
+                Score: {props.score} | Top Score: {props.topScore}
+              </li>
             </ul>
         </nav>
     );

@@ -27,9 +27,9 @@ class GameMessage extends Component {
         case "correct":
             return "Great guess!";
         case "incorrect":
-            return "Wrong guess! Try again!";
+            return "Wrong guess!";
         default:
-            return "Click a Solar System object to begin!";
+            return "Click an image!";
         }
     };
 
