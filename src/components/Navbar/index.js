@@ -6,7 +6,10 @@ function Nav() {
         <nav className="navbar">
             <ul>
               <li className="brand">
-                <a href="/">Clicky Game</a>
+                <a className="navbar-brand" href="/">
+                <img src="/assets/images/logo.jpg" class="d-inline-block align-top" alt="logo" />
+                  Clicky Game
+                </a>
               </li>
               <li>Placeholder Message</li>
               <li>Placeholder Scoreboard</li>
