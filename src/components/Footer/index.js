@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer className="footer">
             <div className="fixed-bottom">
-            © 2019 Solar System Clicky Game
+            © 2019 Planets Clicky Game
             </div>
         </footer>
     );
