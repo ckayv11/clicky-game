@@ -16,33 +16,30 @@
     },
     {
       "id": 4,
-      "image": "https://solarsystem.nasa.gov/system/feature_items/images/31_earth_moon.png",
-      "clicked": false
-    },
-    {
-      "id": 5,
       "image": "https://solarsystem.nasa.gov/system/feature_items/images/19_mars.png",
       "clicked": false
     },
     {
-      "id": 6,
+      "id": 5,
       "image": "https://solarsystem.nasa.gov/system/feature_items/images/16_jupiter_new.png",
       "clicked": false
     },
     {
-      "id": 7,
+      "id": 6,
       "image": "https://solarsystem.nasa.gov/system/feature_items/images/28_saturn.png",
       "clicked": false
     },
     {
-      "id": 8,
+      "id": 7,
       "image": "https://solarsystem.nasa.gov/system/feature_items/images/29_uranus.png",
       "clicked": false
     },
     {
-      "id": 9,
+      "id": 8,
       "image": "https://solarsystem.nasa.gov/system/feature_items/images/30_neptune.png",
       "clicked": false
     }
   ]
+
+
   
