@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
     return (
         <footer className="footer">
-            <div className="bottom">
+            <div className="fixed-bottom">
             © 2019 Solar System Clicky Game
             </div>
         </footer>

@@ -1,10 +1,6 @@
-.footer > .bottom {
+.footer > .fixed-bottom {
     color: black;
     height: 50px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
     background: rgb(236, 233, 233);
     padding-top: 20px;
     text-align: center;
