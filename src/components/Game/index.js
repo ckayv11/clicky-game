@@ -2,11 +2,10 @@ import React, { Component } from "react";
 import Navbar from "../Navbar";
 import Container from "../Container";
 import Header from "../Header";
-import ImageforClick from "../ImageForClick";
+import ImageForClick from "../ImageForClick";
 import Footer from "../Footer";
 import data from "../../data.json";
 import { reset } from "ansi-colors";
-import ImageForClick from "../ImageForClick";
 
 class Game extends Component {
     state = {
